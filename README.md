@@ -88,13 +88,6 @@ Vulner_AI/
 
 ---
 
-## ⚖️ License
-
-MIT License.
-For research and educational use only.
-
----
-
 ## 🙌 Contributing
 
 Pull requests and discussions are welcome!
